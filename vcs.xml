@@ -18,6 +18,14 @@
           <option name="url" value="https://gitee.com/jikeyi1_9/Laboratory_Equipment_Management_System.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:rainweb/book_management_system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:withstars/Books-Management-System.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />
